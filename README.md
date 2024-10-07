@@ -18,7 +18,6 @@
 🌱 Ongoing Projects: Building a DeepFake Detection model, refining web development skills, and diving into DevOps best practices.
 
 
----
 
 
 <!---
