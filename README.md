@@ -7,12 +7,12 @@
 👨🏽‍💻 **Tech Stack**:  
    - **Programming**: Python, C++, JavaScript, HTML, CSS  
    - **Web Development**: Proficient in HTML, CSS, JavaScript, PHP  
-   - **Databases**: Skilled in SQL  
+   - **Databases**: Skilled in SQL, MongoDB
    - **AI/ML**: Experienced with PyTorch, scikit-learn, and developing DeepFake detection models
    - **Tools**: Git, Github, Figma
    - **DevOps**: Knowledgeable in Docker, Linux, and cloud platforms  
 
-⚙️ **Tools & Frameworks**: React.js, Flask, MongoDB, Git, three.js
+⚙️ **Tools & Frameworks**: React.js, Bootstrap, Tailwind CSS , MongoDB, Git, three.js
 
 💬 **Passionate About**: Building scalable AI/ML solutions, crafting user-focused web applications, and diving into immersive tech like three.js.
 
@@ -25,4 +25,5 @@
 🔗 **Connect with Me**:  
    - [GitHub](https://github.com/priyanshu-priya)  
    - [LinkedIn](https://linkedin.com/in/priyanshu-priya)  
-   - [Twitter](https://twitter.com/priyanshupriya_)  
+   - [Twitter](https://twitter.com/priyanshupriya_)
+   - [Instagram](https://www.instagram.com/priyanshupriyaofficial/)
