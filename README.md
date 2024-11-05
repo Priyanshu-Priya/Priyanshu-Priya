@@ -1,26 +1,28 @@
 👋 Hi, I'm Priyanshu Priya
 
-🌐 Web Developer | AI/ML Enthusiast | DevOps Practitioner
+🌐 **Web Developer | AI/ML Enthusiast | UI/UX Designer**
 
-🔭 Currently Exploring: React.js and Data Structures & Algorithms (C++).
+🔭 **Currently Exploring**: Advanced React.js, Data Structures & Algorithms (C++), and three.js.
 
-👨🏽‍💻 Tech Stack:
-   • Programming: Python, C++, JavaScript, HTML, CSS
-   • Web Development: Proficient in HTML, CSS, JavaScript, and PHP
-   • Databases: Experienced with SQL
-   • AI/ML: Familiar with PyTorch, scikit-learn, and building deepfake detection models
-   • DevOps: Docker, Linux, cloud platforms
+👨🏽‍💻 **Tech Stack**:  
+   - **Programming**: Python, C++, JavaScript, HTML, CSS  
+   - **Web Development**: Proficient in HTML, CSS, JavaScript, PHP  
+   - **Databases**: Skilled in SQL  
+   - **AI/ML**: Experienced with PyTorch, scikit-learn, and developing DeepFake detection models
+   - **Tools**: Git, Github, Figma
+   - **DevOps**: Knowledgeable in Docker, Linux, and cloud platforms  
 
-⚙️ Tools & Frameworks: React.js (currently learning), Flask, MongoDB, Git, and three.js.
+⚙️ **Tools & Frameworks**: React.js, Flask, MongoDB, Git, three.js
 
-💬 Passionate About: Developing scalable AI/ML systems, creating engaging web applications, and exploring new technologies like three.js.
+💬 **Passionate About**: Building scalable AI/ML solutions, crafting user-focused web applications, and diving into immersive tech like three.js.
 
-🌱 Ongoing Projects: Building a DeepFake Detection model, refining web development skills, and diving into DevOps best practices.
+🌱 **Ongoing Projects**:  
+   - **DeepFake Detection Model**: Enhancing a robust AI model for high-accuracy DeepFake detection  
+   - **ClimaLens**: Developing a climate data visualization platform to share impactful environmental insights  
+   - **News Aggregator Website**: Creating a responsive news site with real-time updates, category filters, and dark mode  
+   - **Portfolio Website**: Building an interactive platform to showcase projects, skills, and personal achievements  
 
-
-
-
-<!---
-Priyanshu-Priya/Priyanshu-Priya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔗 **Connect with Me**:  
+   - [GitHub](https://github.com/priyanshu-priya)  
+   - [LinkedIn](https://linkedin.com/in/priyanshu-priya)  
+   - [Twitter](https://twitter.com/priyanshupriya_)  
