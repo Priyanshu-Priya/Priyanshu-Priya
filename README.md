@@ -4,7 +4,7 @@
 
 🔭 **Currently Exploring**: Advanced React.js, Data Structures & Algorithms (C++), and three.js.
 
-👨🏽‍💻 **Tech Stack**:  
+👨🏽‍💻 **Tech Stack**:
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Programming-Python-blue?style=flat&logo=python&logoColor=white" alt="Python">
@@ -15,21 +15,27 @@
   <img src="https://img.shields.io/badge/Database-SQL-lightgrey?style=flat&logo=mysql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Database-MongoDB-green?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/AI/ML-PyTorch-purple?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/AI/ML-scikit--learn-green?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn">
   <img src="https://img.shields.io/badge/DevOps-Docker-blue?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/DevOps-Linux-black?style=flat&logo=linux&logoColor=white" alt="Linux">
   <img src="https://img.shields.io/badge/Design-Figma-pink?style=flat&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Frontend-React.js-blue?style=flat&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Frontend-Bootstrap-blue?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Frontend-TailwindCSS-teal?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/Cloud-AWS-darkorange?style=flat&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Cloud-Google%20Cloud-blue?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud">
 </div>
 
-   - **Programming**: Python, C++, JavaScript, HTML, CSS  
-   - **Web Development**: Proficient in HTML, CSS, JavaScript, PHP  
-   - **Databases**: Skilled in SQL, MongoDB
-   - **AI/ML**: Experienced with PyTorch, scikit-learn, and developing DeepFake detection models
-   - **Tools**: Git, Github, Figma
-   - **DevOps**: Knowledgeable in Docker, Linux, and cloud platforms  
+- 💻 **Programming**: Python, C++, JavaScript, HTML, CSS  
+- 🌐 **Web Development**: React.js, HTML, CSS, JavaScript, PHP, Bootstrap, TailwindCSS  
+- 🗄️ **Databases**: SQL, MongoDB  
+- 🤖 **AI/ML**: PyTorch, scikit-learn, DeepFake detection models, CNNs  
+- 🛠️ **DevOps**: Docker, Linux, AWS, Google Cloud  
+- 🧑‍💻 **Version Control**: Git, GitHub  
+- ☁️ **Cloud Platforms**: AWS, Google Cloud  
+- 🔧 **Tools & Frameworks**: React.js, Bootstrap, Tailwind CSS, MongoDB, Git, Figma, three.js  
 
-⚙️ **Tools & Frameworks**: React.js, Bootstrap, Tailwind CSS , MongoDB, Git, three.js
-
-💬 **Passionate About**: Building scalable AI/ML solutions, crafting user-focused web applications, and diving into immersive tech like three.js.
+💬 **Passionate About**: Building scalable AI/ML solutions, crafting user-focused web applications, and diving into immersive technologies like three.js.
 
 🌱 **Ongoing Projects**:  
    - **DeepFake Detection Model**: Enhancing a robust AI model for high-accuracy DeepFake detection  
