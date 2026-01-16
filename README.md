@@ -64,7 +64,7 @@
   <a href="https://www.instagram.com/priyanshu.priya_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://priyanshupriya.netlify.app/" target="_blank">
+  <a href="https://priyanshupriya.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=netlify&logoColor=white"/>
   </a>
 </div>
